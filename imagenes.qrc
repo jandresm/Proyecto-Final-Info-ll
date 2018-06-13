@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>bombaa(1).png</file>
+        <file>Control de acceso.png</file>
+        <file>escena2.png</file>
+        <file>inicio.png</file>
+        <file>misil(1).png</file>
+        <file>Personaje1.png</file>
+        <file>Personaje1(1).png</file>
+        <file>Personaje2.png</file>
+        <file>Personaje2(1).png</file>
+        <file>rocket(1).png</file>
+        <file>Roca.png</file>
+    </qresource>
+</RCC>
